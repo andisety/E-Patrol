@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52137909856",
+    "project_id": "e-patrol-dde8c",
+    "storage_bucket": "e-patrol-dde8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52137909856:android:f1b58901a4678c4310ed05",
+        "android_client_info": {
+          "package_name": "com.andi.epatrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52137909856-oegevd6mmpvfk38fsdu453s6tkuc1ptn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08AlOHEMGsOnHkbOjzc8ni6WLabe1CJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52137909856-oegevd6mmpvfk38fsdu453s6tkuc1ptn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
